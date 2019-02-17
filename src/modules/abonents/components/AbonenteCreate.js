@@ -54,7 +54,7 @@ class AbonentCreate extends Component {
                                    validate={[required]}/>
                         </div>
                         <div className="form-group">
-                            <Field type="text"
+                            <Field type="tel"
                                    className="form-control"
                                    name="phone"
                                    label="Phone"
