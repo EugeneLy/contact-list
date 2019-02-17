@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Firstly run API server with command - json-server --watch db.json --port 3030. 
+P.S. new information adds to the end of list.
+
 ## Available Scripts
 
 In the project directory, you can run:
